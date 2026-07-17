@@ -16,3 +16,11 @@ __v0_jsx-dev-runtime.ts
 node_modules
 .next/
 .DS_Store
+
+# Logs
+*.log
+.next-dev.log
+.next-dev-error.log
+
+# TypeScript
+*.tsbuildinfo
